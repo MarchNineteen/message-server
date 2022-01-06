@@ -1,0 +1,9 @@
+aliyun:
+  mail:
+    appId: 1232131
+    appkey: 123123
+    url: http://www.baidu.com
+  sms:
+    appId: sms1
+    appkey: sms2
+    url: http://www.sms.com
